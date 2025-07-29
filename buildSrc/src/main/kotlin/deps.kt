@@ -129,7 +129,7 @@ object deps {
   const val flowExt = "io.github.hoc081098:FlowExt:0.8.0"
 
   const val atomicfu = "org.jetbrains.kotlinx:atomicfu:0.23.2"
-  const val immutableCollections = "org.jetbrains.kotlinx:kotlinx-collections-immutable:0.3.7"
+  const val immutableCollections = "org.jetbrains.kotlinx:kotlinx-collections-immutable:0.4.0"
 
   object arrow {
     private const val version = "1.2.1"
