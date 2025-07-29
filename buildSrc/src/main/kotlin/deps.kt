@@ -132,7 +132,7 @@ object deps {
   const val immutableCollections = "org.jetbrains.kotlinx:kotlinx-collections-immutable:0.3.7"
 
   object arrow {
-    private const val version = "1.2.1"
+    private const val version = "2.1.2"
     const val core = "io.arrow-kt:arrow-core:$version"
     const val fx = "io.arrow-kt:arrow-fx-coroutines:$version"
   }
