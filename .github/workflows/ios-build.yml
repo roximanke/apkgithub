@@ -87,7 +87,7 @@ jobs:
 
       - name: Failures report
         if: failure()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: iosSimulatorArm64_generated
           path: shared/build/skie/binaries/podDebugFramework/DEBUG/iosSimulatorArm64/swift/generated/
