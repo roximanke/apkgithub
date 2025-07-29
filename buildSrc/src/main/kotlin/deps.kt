@@ -123,7 +123,7 @@ object deps {
     const val savedState = "io.github.hoc081098:kmp-viewmodel-savedstate:$version"
   }
 
-  const val dateTime = "org.jetbrains.kotlinx:kotlinx-datetime:0.5.0"
+  const val dateTime = "org.jetbrains.kotlinx:kotlinx-datetime:0.7.1-0.6.x-compat"
 
   const val coilCompose = "io.coil-kt:coil-compose:2.5.0"
   const val flowExt = "io.github.hoc081098:FlowExt:0.8.0"
