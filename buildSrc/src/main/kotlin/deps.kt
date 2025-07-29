@@ -137,7 +137,7 @@ object deps {
     const val fx = "io.arrow-kt:arrow-fx-coroutines:$version"
   }
 
-  const val desugarJdkLibs = "com.android.tools:desugar_jdk_libs:2.0.4"
+  const val desugarJdkLibs = "com.android.tools:desugar_jdk_libs:2.1.5"
   const val napier = "io.github.aakira:napier:2.6.1"
 
   object slack {
